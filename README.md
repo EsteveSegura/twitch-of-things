@@ -1,6 +1,6 @@
 <p align=center>
 
-  <img width=300 src="https://i.imgur.com/CWHoH08.png"/>
+  <img width=300 src="https://i.imgur.com/cympf1s.png"/>
 
   <br>
   <span><strong>Twitch of Things( ToT )</strong> It is a methodology to control arduino from twitch chat <br />
